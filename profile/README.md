@@ -30,11 +30,19 @@ We develop R packages and interactive tools to make statistical methods accessib
 - [SimTOST](https://github.com/smartdata-analysis-and-statistics/SimTOST) — simulation-based sample-size planning for bioequivalence studies
 - [bcts](https://github.com/smartdata-analysis-and-statistics/bcts) — Bayesian clinical trial simulation and evaluation of borrowing from external controls
 
-## Research and training
+## Research collaborations
 
-We contribute methods, analyses, and software to research collaborations, deliver specialist training, and supervise or co-supervise MSc and PhD projects.
+Research is a central part of our work. We develop and evaluate statistical methods for clinical trials, real-world evidence, evidence synthesis, and prediction modelling, often in collaboration with academic researchers and clinical teams.
 
-Browse our [courses and learning materials on Thinkific](https://sdas.thinkific.com/).
+We contribute to funded research projects through methodological development, study design, statistical analyses, and scientific publications. We also supervise and co-supervise MSc and PhD projects.
+
+## Training and public resources
+
+We contribute to academic teaching and deliver courses and workshops for researchers and statisticians. Our training covers both the foundations of statistical methods and their application in clinical research.
+
+We share our work through open-source software, books and methodological articles, and publicly available teaching materials and worked examples.
+
+Explore our [courses and learning materials on Thinkific](https://sdas.thinkific.com/).
 
 ## The team behind SDAS
 
