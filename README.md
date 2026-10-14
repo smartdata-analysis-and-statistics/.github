@@ -25,7 +25,7 @@ Browse courses and learning materials on [Thinkific](https://sdas.thinkific.com/
 
 ## About SDAS
 
-SDAS is led by Thomas Debray, PhD, and Prof. Tim Friede. We are based in Utrecht, the Netherlands.
+SDAS is led by Thomas Debray, PhD. We are based in Utrecht, the Netherlands.
 
 - [Website](https://www.fromdatatowisdom.com/)
 - [Thomas Debray on LinkedIn](https://www.linkedin.com/in/debraythomas/)
