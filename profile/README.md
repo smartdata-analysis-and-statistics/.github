@@ -23,10 +23,11 @@ Smart Data Analysis and Statistics (SDAS) develops and applies statistical metho
 
 Browse courses and learning materials on [Thinkific](https://sdas.thinkific.com/).
 
-## About SDAS
+## The team behind SDAS
 
-SDAS is led by Thomas Debray, PhD. We are based in Utrecht, the Netherlands.
+SDAS brings together statisticians, epidemiologists, and data scientists, alongside scientific advisors and research collaborators. Together, we work on clinical trials, real-world evidence, evidence synthesis, training, and open-source statistical software.
 
-- [Website](https://www.fromdatatowisdom.com/)
+Founded by Thomas Debray, PhD, SDAS is based in Utrecht, the Netherlands.
+
+- [SDAS website](https://www.fromdatatowisdom.com/)
 - [Thomas Debray on LinkedIn](https://www.linkedin.com/in/debraythomas/)
-- [Thomas Debray on ORCID](https://orcid.org/0000-0002-1790-2719)
