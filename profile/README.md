@@ -38,11 +38,11 @@ We contribute to funded research projects through methodological development, st
 
 ## Training and public resources
 
-We contribute to academic teaching and deliver courses and workshops for researchers and statisticians. Our training covers both the foundations of statistical methods and their application in clinical research.
+We contribute to academic teaching and deliver courses and workshops for researchers and statisticians. Our training covers statistical methods and their application in clinical research.
 
-We share our work through open-source software, books and methodological articles, and publicly available teaching materials and worked examples.
+Several of our [courses and learning materials on Thinkific](https://sdas.thinkific.com/) are freely available. Our open-source R packages are free to use, with documentation and worked examples to support their application.
 
-Explore our [courses and learning materials on Thinkific](https://sdas.thinkific.com/).
+We also share our research through books, methodological articles, and publicly available teaching materials.
 
 ## The team behind SDAS
 
