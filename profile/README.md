@@ -42,7 +42,7 @@ We contribute to academic teaching and deliver courses and workshops for researc
 
 Several of our [courses and learning materials on Thinkific](https://sdas.thinkific.com/) are freely available. Our open-source R packages are free to use, with documentation and worked examples to support their application.
 
-We also share our research through books, methodological articles, and publicly available teaching materials.
+SDAS founder Thomas Debray co-edited [*Comparative Effectiveness and Personalized Medicine Research Using Real-World Data*](https://www.taylorfrancis.com/books/edit/10.1201/9781003300809/comparative-effectiveness-personalized-medicine-research-using-real-world-data-thomas-debray-tri-long-nguyen-robert-platt) with Tri-Long Nguyen and Robert W. Platt. The book covers methods for studying comparative effectiveness and personalizing treatment using real-world data. 
 
 ## The team behind SDAS
 
